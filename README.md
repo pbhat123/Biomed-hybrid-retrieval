@@ -365,7 +365,6 @@ evaluate()
 - **Notebook (the full pipeline):** [`PubMedQA_Hybrid_Search.ipynb`](./PubMedQA_Hybrid_Search.ipynb), runnable end-to-end in Google Colab via the badge above.
 - **Architecture diagram:** section 6 (renders natively on GitHub).
 - **Sample traces:** sections 7 and 9 include real outputs from the notebook (fused results, per-leg scores, BOTH/Dense/Sparse labels).
-- **Video walkthrough:** _<add Loom/YouTube link>_
 
 **Run it**
 ```bash
@@ -396,6 +395,5 @@ pip install qdrant-client fastembed datasets transformers numpy pandas
 - Xiao et al., *C-Pack: Packaged Resources To Advance General Chinese Embedding* (BGE), 2023
 - [Qdrant hybrid queries](https://qdrant.tech/documentation/concepts/hybrid-queries/) · [FastEmbed](https://github.com/qdrant/fastembed)
 
-**Built by [<Your Name>](https://www.linkedin.com/in/<your-handle>)**
 
 ---
